@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(219, 199, 67);
+}
+
+H1{
+ font-size: 30px;
+ font-family: 'Kaushan Script', cursive;
+font-family: 'Lobster', cursive;
+ 
+}
+
+P{
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#block{
+    width: 210px;
+    height: 60px;
+    background-color:rgb(212, 189, 39);
+    -webkit-box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.77);
+    -moz-box-shadow:    9px 7px 5px rgba(50, 50, 50, 0.77);
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.77);
+}
+
+.ads01{
+
+    float: left;
+    width: 50px;
+  }
