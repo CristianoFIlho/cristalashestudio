@@ -10,8 +10,8 @@ html {
 }
 
 body {
-    background-color: #060042;
-    background-image: linear-gradient(#060042 2%, #20a39e 108%);
+    background-color: #6d0452;
+    background-image: linear-gradient(#5d0540 2%, #a32098 108%);
     color: #fff;
     min-height: 100vh;
     text-align: center;
@@ -24,7 +24,7 @@ body {
 
 a.featured:hover,
 a:hover {
-    background-color: #060042;
+    background-color: #6d0452;
     color: #fff
 }
 
@@ -43,7 +43,7 @@ a {
 a.featured {
     position: relative;
     background-color: #fff;
-    color: #060042;
+    color: #6d0452;
     font-weight: 700
 }
 
@@ -54,7 +54,7 @@ a.featured:before {
     left: 2px;
     width: calc(100% - 4px);
     height: calc(100% - 4px);
-    border: 2px solid #060042
+    border: 2px solid #6d0452
 }
 
 h2 {
@@ -74,7 +74,7 @@ h2 {
     flex: 1;
     padding: 5px 10px;
     margin-right: 10px;
-    background-color: #060042;
+    background-color: #6d0452;
     border: none
 }
 
@@ -98,8 +98,8 @@ html {
 }
 
 body {
-    background-color: #060042;
-    background-image: linear-gradient(#060042 2%, #20a39e 108%);
+    background-color: #630566;
+    background-image: linear-gradient(#a0a0a0 2%, #a32098 108%);
     color: #fff;
     min-height: 100vh;
     text-align: center;
@@ -112,7 +112,7 @@ body {
 
 a.featured:hover,
 a:hover {
-    background-color: #060042;
+    background-color: #660359;
     color: #fff
 }
 
@@ -162,7 +162,7 @@ h2 {
     flex: 1;
     padding: 5px 10px;
     margin-right: 10px;
-    background-color: #060042;
+    background-color: #5a0240;
     border: none
 }
 
@@ -173,6 +173,7 @@ h2 {
 .channels a:hover {
     text-decoration: underline
 }
+
 
 
 img {
